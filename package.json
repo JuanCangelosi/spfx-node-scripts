@@ -1,0 +1,17 @@
+{
+  "name": "iaw-backend",
+  "version": "1.0.0",
+  "description": "node scripts of the PAC app",
+  "main": "sp.js",
+  "scripts": {
+    "test": "sp"
+  },
+  "author": "Juan Ignacio Cangelosi",
+  "license": "ISC",
+  "dependencies": {
+    "@pnp/pnpjs": "^1.1.2",
+    "sp-pnp-node": "^2.1.2",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
+}
